@@ -1,7 +1,7 @@
 {
-  "name": "Four Rooms",
-  "short_name": "Four Rooms",
-  "description": "A teaching and practice house inspired by don Miguel Ruiz’s Four Agreements. Original wording. Not therapy.",
+  "name": "The Pact",
+  "short_name": "The Pact",
+  "description": "A daily practice inspired by don Miguel Ruiz’s Four Agreements. Original wording. Not therapy. Not affiliated.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

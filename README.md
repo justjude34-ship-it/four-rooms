@@ -6,7 +6,7 @@ Quiet, grown-up, local-only. Original wording — not a reprint. Not affiliated 
 
 Buy once, own forever. Part of the NumeraKey shelf.
 
-## Inside the house
+## Inside
 - Home — today’s room, a living card, evening close
 - Learn — short original lessons
 - Four rooms — Word, Not mine, Ask, Best (teach, practice, when it’s hard, notes)

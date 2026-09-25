@@ -1,4 +1,4 @@
-const CACHE = "four-rooms-v1";
+const CACHE = "the-pact-v1";
 const ASSETS = ["./", "./index.html", "./app.js", "./style.css", "./manifest.json", "./icon.svg"];
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting()));
