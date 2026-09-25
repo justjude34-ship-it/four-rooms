@@ -1,4 +1,4 @@
-# Four Rooms
+# The Pact
 
 A teaching and practice house inspired by don Miguel Ruiz’s Four Agreements.
 
@@ -6,7 +6,7 @@ Quiet, grown-up, local-only. Original wording — not a reprint. Not affiliated 
 
 Buy once, own forever. Part of the NumeraKey shelf.
 
-## Rooms
+## Inside the house
 - Home — today’s room, a living card, evening close
 - Learn — short original lessons
 - Four rooms — Word, Not mine, Ask, Best (teach, practice, when it’s hard, notes)
