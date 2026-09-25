@@ -1,7 +1,7 @@
 {
   "name": "Four Rooms",
   "short_name": "Four Rooms",
-  "description": "A daily practice house inspired by don Miguel Ruiz’s Four Agreements. Learn, live, and return. Not therapy. Not affiliated.",
+  "description": "A teaching and practice house inspired by don Miguel Ruiz’s Four Agreements. Original wording. Not therapy.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -10,7 +10,7 @@
   "theme_color": "#08070b",
   "icons": [
     {
-      "src": "icon.svg",
+      "src": "./icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
